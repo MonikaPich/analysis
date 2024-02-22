@@ -1,16 +1,13 @@
 # Business analysis
 
-In this repository I show how I am learning 
-BPMN business process modelling, systems analysis 
-and practicing my Excel skills
+In this repository, I show how I learn 
+BPMN business process modelling, systems analysis, report generation and practice my skills in Excel.
+
+##### POWER BI
+* [my Power BI training]()
 
 ##### BPMN 
-##### Camunda Modeler
-* [tworzenie przesyłki inpost- paczkomat](https://github.com/MonikaPich/analysis/tree/master/Comunda_Modeler/tworzenie_przesyłki_inpost.png)
-* [zamówienie allegro](https://github.com/MonikaPich/analysis/tree/master/Comunda_Modeler/zamówienie_allegro.png)
-
-##### Visual Paradigm
-* [Zamówienie - sklep internetowy](https://github.com/MonikaPich/analysis/tree/master/Visual_Paradigm/zakupy_sklep_internetowy.pdf)
+* [my EBPMN training]()
 
 #### Excel 
 * [my Excel training](https://github.com/MonikaPich/analysis/tree/master/Excel)

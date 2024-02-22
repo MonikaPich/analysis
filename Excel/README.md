@@ -1,47 +1,46 @@
 # My Excel training
 
-#### tabela przestawna
+#### pivot table
 
-1. Wyfiltruj ilość klientów z poszczególnych Państw z podziałem na miasta.
+1. filter the number of customers from each State by city.
 
-[tabela_przestawna1](Tabela_przestawna.xlsx)
+[pivot table](Tabela_przestawna.xlsx)
 
-2. Wyfiltruj kientów z podziałem na miasta uwzględniając adresy i kody pocztowe.
+2. filter customers by city including addresses and postcodes.
 
-[tabela_przestawna2](tabela_przestawna_2.xlsx)
+[tpivot table2](tabela_przestawna_2.xlsx)
 
 
-#### Wyszukaj pionowo
+#### Search vertical
    
-1. Do arkusza 'orders" nadpisz nazwiska klientów.
+1 To the 'orders' sheet overwrite the customer names.
 
-[wyszukaj_pionowo1](wyszukaj_pionowo.xlsx)
+[wSearch vertical1](wyszukaj_pionowo.xlsx)
 
-2. Do każdego nazwiska klienta wyfiltruj ilość złożonych przez niego zamówień.
+2. For each customer name, filter out the number of orders they have placed.
 
-[wyszukaj_pionowo2](Tabela_przestawna_na_podstawie_wyszukaj_pionowo.xlsx)
-
-
-#### Formatowanie warunkowe
-
-1. Zaznacz EmployeeID > 2 oraz ShipperID = 3
-
-[formatowanie_warunkowe](Formatowanie_warunkowe.xlsx)
+[Search vertical2](Tabela_przestawna_na_podstawie_wyszukaj_pionowo.xlsx)
 
 
-#### Sumy częściowe
+#### Conditional formatting
 
-1. Wskaż sumę wynagrodzeń, minimalne, maksymalne oraz średnią wynagrodzeń za pomocą funkcji podstawowych oraz sum częściowych
+1. Check EmployeeID > 2 and ShipperID = 3
 
-[sumy_częściowe](sumy_czesciowe.xlsx)
+[Conditional formatting](Formatowanie_warunkowe.xlsx)
 
 
-#### licz jezeli, licz warunki, suma iloczynow
+#### Subtotal
 
-1. Wskaż:
-   * Ile kobiet jest zatrudnionych w firmie
-   * Ilu mężczyzn jest zatrudnionych w firmie na stanowisku Senior Engineer
-   * Podaj łączną ilość kobiet zatrudnionych na stanowisku Staff
-   * Podaj łączną ilość mężczyzn zatrudnionych na stanowisku Staff oraz Engineer
+Indicate salary totals, minimum, maximum and average salaries using basic functions and subtotals
 
-[licz.jezeli_licz.warunki_suma_iloczynow](licz.jezeli_licz.warunki_sumaIloczynow.xlsx)
+[Subtotal](sumy_czesciowe.xlsx)
+
+#### count if, count terms, sum of products
+
+1 To indicate:
+   * How many women are employed in the company.
+   * How many men are employed in the company as Senior Engineer.
+   * Indicate the total number of women employed in the Staff position.
+   * Give the total number of men employed as Staff and Engineer.
+
+[count if, count terms, sum of products](licz.jezeli_licz.warunki_sumaIloczynow.xlsx)
