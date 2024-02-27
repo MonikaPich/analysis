@@ -12,7 +12,7 @@ The data was pre-filtered using SQL in the database, then developed in Power Que
 
 ### Raport no 2 - report on the sale of apartments
 
-* [my first power BI report](raport_on_the_sale_of_apartments1.pbix)
+* [report on the sale of apartments](raport_on_the_sale_of_apartments1.pbix)
 
 I present another report made using Power BI.
 Database source: https://www.biclever.pl/strefa-wiedzy/kurs-power-w-power-bi/2-jak-zaimportowac-dane-do-power-bi/
