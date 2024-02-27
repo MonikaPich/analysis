@@ -10,7 +10,7 @@ The report shows salaries in a company.
 The data was pre-filtered using SQL in the database, then developed in Power Query and presented in graphs in Power BI.
 
 
-### Raport no 2 - raport on the sale of apartments
+### Raport no 2 - report on the sale of apartments
 
 * [my first power BI report](raport_on_the_sale_of_apartments1.pbix)
 
