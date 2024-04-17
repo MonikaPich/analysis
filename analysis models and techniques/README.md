@@ -1,4 +1,4 @@
-# Bmodelling techniques training
+# Modelling techniques training
 
  In this repository I show how I learn modelling techniques in business analysis.
 
