@@ -10,13 +10,14 @@
 
 [pivot table2](tabela_przestawna_2.xlsx)
 
-2. filter customers by city including addresses and postcodes.
-
-[opreations on pivot tables](opreations_on_pivot_tables.xlsx)
+2. opreations on pivot tables
    * % of final total
    * row % share
    * % year-on-year change
    For all pivot tables, corresponding pivot charts have been created
+
+[pivot table3](opreations_on_pivot_tables.xlsx)
+
 
 
 #### Search vertical
